@@ -29,6 +29,7 @@ Users should be able to:
 ![Product Preview Card for desktop](./design/desktop-design.jpg)
 
 - for Mobile
+
 ![Product Preview Card for mobile](./design/mobile-design.jpg)
 
 ### Links
