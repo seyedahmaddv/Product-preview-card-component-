@@ -25,8 +25,11 @@ Users should be able to:
 - See hover and focus states for interactive elements
 
 ### Screenshot
+- for Desktop
+![Product Preview Card for desktop](./design/desktop-design.jpg)
 
-![Product Preview Card](./screenshot.jpg)
+- for Mobile
+![Product Preview Card for mobile](./design/mobile-design.jpg)
 
 ### Links
 
