@@ -35,7 +35,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [GitHub Repository](https://github.com/seyedahmaddv/Product-preview-card-component-)
-- Live Site URL: [Live Demo](https://your-live-site-url.com)
+- Live Site URL: [Live Demo](https://product-preview-card-component-101.netlify.app/)
 
 ## My process
 
